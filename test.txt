@@ -1,3 +1,5 @@
 Hello world
 this was modified on the good branch
+<<<<<<< HEAD
 this was modified on the master branch
+this was ModIFied on THE BAD branch, to0
